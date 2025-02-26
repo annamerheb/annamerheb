@@ -1,20 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Anna Merheb
 
-💻 Anna Merheb | Full Stack Developer
-🚀 Passionate Full Stack Developer with over two years of experience in building dynamic, scalable, and high-performance web applications. I specialize in React, ASP.NET Core, SQL Server, and IIS hosting.
+## 💻 About Me
+Passionate Full Stack Developer with over two years of experience in building dynamic, scalable, and high-performance web applications. I specialize in React, ASP.NET Core, SQL Server, and IIS hosting.
 
-🛠 Tech Stack
-Frontend: React.js, JavaScript, CSS
-Backend: ASP.NET Core, C#, SQL Server,Web forms
-DevOps & Hosting: IIS, Windows Server, WordPress
-Other: SEO, Web Performance Optimization, API Integrations
-🔥 Featured Projects
-📌 React Portfolio
-A modern React-based portfolio showcasing high-quality images, videos, and optimized performance with caching.
+## 🌍 My Projects
+Here are some projects I've worked on:
+- [Nour jabr](https://nourjabr.com/) - A Designer website.
+- [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
+- [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
+- [Goccia](https://goccia.it) - Lighting Company worked on it in Coperon Technologies.
 
-📌 ASP.NET Web API Backend
-A secure ASP.NET Core API with JWT authentication, handling data management and integrations efficiently.
+## 🚀 Skills & Technologies
+- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
+- **Backend:** ASP.NET, Node.js, Express, Web Api
+- **Databases:** SQL Server, MongoDB
+- **Others:** Git, Docker, WordPress, Shopify, IIS server
 
+## 📫 Contact Me
+- LinkedIn: [[Anna Merheb](https://linkedin.com/in/anna-m-934a85214)]
+- Email: [annamerheb@gmail.com](annamerheb@gmail.com)
+- GitHub: [Anna Merheb](https://github.com/annamerheb)
 
-📫 Connect with Me
-🔗 LinkedIn | 🌐 Portfolio
+⭐️ Feel free to check out my repositories and contribute!
