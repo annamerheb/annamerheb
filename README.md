@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**annamerheb/annamerheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Anna Merheb | Full Stack Developer
+🚀 Passionate Full Stack Developer with over two years of experience in building dynamic, scalable, and high-performance web applications. I specialize in React, ASP.NET Core, SQL Server, and IIS hosting.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Frontend: React.js, JavaScript, CSS
+Backend: ASP.NET Core, C#, SQL Server,Web forms
+DevOps & Hosting: IIS, Windows Server, WordPress
+Other: SEO, Web Performance Optimization, API Integrations
+🔥 Featured Projects
+📌 React Portfolio
+A modern React-based portfolio showcasing high-quality images, videos, and optimized performance with caching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 ASP.NET Web API Backend
+A secure ASP.NET Core API with JWT authentication, handling data management and integrations efficiently.
+
+
+📫 Connect with Me
+🔗 LinkedIn | 🌐 Portfolio
