@@ -8,11 +8,12 @@ Here are some projects I've worked on:
 - [Nour jabr](https://nourjabr.com/) - A Designer website.
 - [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
-- [Goccia](https://goccia.it) - Lighting Company worked on it in Coperon Technologies.
+- [Goccia](https://goccia.it) - Lighting Company worked on it at Coperon Technologies.
+- [ALC](https://alc.sa) - Lighting Company worked on it at Coperon Technologies.
 
 ## 🚀 Skills & Technologies
-- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
-- **Backend:** ASP.NET, Node.js, Express, Web Api
+- **Frontend:** React.js, Angular.js, ASP.NET C#, HTML, CSS, JavaScript, Bootstrap
+- **Backend:** ASP.NET Web Api , Node.js, Express
 - **Databases:** SQL Server, MongoDB
 - **Others:** Git, Docker, WordPress, Shopify, IIS server
 
