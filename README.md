@@ -14,7 +14,7 @@ Here are some projects I've worked on:
 ## 🚀 Skills & Technologies
 - **Frontend:** React.js, Angular.js, ASP.NET C#, HTML, CSS, JavaScript, Bootstrap
 - **Backend:** ASP.NET Web Api , Node.js, Express
-- **Databases:** SQL Server, MongoDB
+- **Databases:** SQL Server, phpMyAdmin
 - **Others:** Git, Docker, WordPress, Shopify, IIS server
 
 ## 📫 Contact Me
