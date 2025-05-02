@@ -5,7 +5,7 @@ Passionate Full Stack Developer with over two years of experience in building dy
 
 ## 🌍 My Projects
 Here are some projects I've worked on:
-- [IGLA](https://iglacouture.com/) - A Haute Couture Dress Rental Website.
+- [IGLA](https://iglacouture.com/) - A luxury haute couture dress rental platform offering timeless, handcrafted designs for modern elegance.
 - [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
 - [Nour jabr](https://nourjabr.com/) - A Designer website.
