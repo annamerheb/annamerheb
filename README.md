@@ -5,10 +5,10 @@ Passionate Full Stack Developer with over two years of experience in building dy
 
 ## 🌍 My Projects
 Here are some projects I've worked on:
-- [Nour jabr](https://nourjabr.com/) - A Designer website.
-- [IGLA](https://iglacouture.com/) - A Dress Rental Website.
+- [IGLA](https://iglacouture.com/) - A Haute Couture Dress Rental Website.
 - [Studio Bad Idea](https://studiobadidea.com/) - Design & Branding agency website.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
+- [Nour jabr](https://nourjabr.com/) - A Designer website.
 - [Goccia](https://goccia.it) - Lighting Company worked on it at Coperon Technologies.
 - [ALC](https://alc.sa) - Lighting Company worked on it at Coperon Technologies.
 
