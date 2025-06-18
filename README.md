@@ -7,7 +7,6 @@ Passionate Full Stack Developer with over two years of experience in building dy
 Here are some projects I've worked on:
 - [IGLA](https://iglacouture.com/) - A luxury haute couture dress rental platform offering timeless, handcrafted designs for modern elegance.
 - [Tarek Sabbouh](https://tareksabbouh.com/) - Portfolio for a professional.
-- [Nour jabr](https://nourjabr.com/) - A Designer website.
 - [Goccia](https://goccia.it) - Lighting Company worked on it at Coperon Technologies.
 - [ALC](https://alc.sa) - Lighting Company worked on it at Coperon Technologies.
 
